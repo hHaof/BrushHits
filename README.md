@@ -1,1 +1,2 @@
-# BrushHits
+# hao.dangnhat
+Dang Nhat Hao
